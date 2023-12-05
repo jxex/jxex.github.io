@@ -1,0 +1,16 @@
+@charset "utf-8";
+.fluid {
+    width: 100%;
+    height: 100%;
+}
+.site_title {
+    font-weight: 900;
+    font-size: 53px;
+    text-align: center;
+    color: #33D2E6;
+}
+.site_image {
+    float: none;
+    width: 100%;
+    height: 250px;
+}
