@@ -816,9 +816,10 @@ section.services {
 }
 
 .services .service-item h4 {
-  font-size: 22px;
-  font-weight: 600;
-  margin-bottom: 20px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    position: static;
 }
 
 .services .service-item i {
